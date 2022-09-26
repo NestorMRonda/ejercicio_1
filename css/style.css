@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.flex{
+    display:flex
+
+}
+article{
+    width: 33.333%;
+
+}
+
